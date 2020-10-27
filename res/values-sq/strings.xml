@@ -41,6 +41,7 @@
     <string name="sort_order_entry_number_of_albums">Numri i albumeve</string>
     <string name="sort_order_entry_filename">Emri i skedarit</string>
     <string name="playlist_last_added">Shtuar së fundmi</string>
+     <string name="cannot_be_undone">Nëse e fshin nuk mund ta rikthesh</string>
     <string name="new_playlist">Listë e re</string>
     <string name="save">Ruaj</string>
     <string name="cancel">Anullo</string>
